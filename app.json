@@ -1,0 +1,12 @@
+{
+  "name": "LeoApp",
+  "displayName": "LeoApp",
+  "expo": {
+    "name": "LeoApp",
+    "slug": "LeoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
